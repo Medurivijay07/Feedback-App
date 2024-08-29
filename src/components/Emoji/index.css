@@ -1,0 +1,9 @@
+.each-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.emoji {
+  height: 50px;
+  cursor: pointer;
+}
